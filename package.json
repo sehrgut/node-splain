@@ -1,0 +1,31 @@
+{
+  "name": "splain",
+  "version": "0.0.1",
+  "description": "creates human-readable type diagrams of deep objects, specifically to simplify reverse-engineering webservice APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sehrgut/node-splain.git"
+  },
+  "keywords": [
+    "api",
+    "documentation",
+    "utility",
+    "debug",
+    "development",
+    "print",
+    "log",
+    "dump",
+    "inspect"
+  ],
+  "author": "Keith Beckman <kbeckman@becknet.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "33dc987c240b5f02f2b7f5c07db2bead430ec8ec",
+  "dependencies": {
+    "lodash": "1.3.x"
+  }
+}
